@@ -1,0 +1,12 @@
+{
+    "name": "upmind/laravel-validated-data-sets",
+    "description": "Nestable data set classes whose data is represented and validated by laravel validation rules",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Harry Lewis",
+            "email": "harry@upmind.com"
+        }
+    ],
+    "require": {}
+}
